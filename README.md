@@ -56,13 +56,7 @@ This is a Flutter-based mobile application developed as part of the BDCC (Big Da
 
 > 📝 Make sure to add your `.env` file with the correct `OPENWEATHER_API_KEY`.
 
----
 
-## 👨‍💻 Author
-
-**Saad El Mabrouk**  
-
----
 
 ## 📂 Directory Structure
 
